@@ -59,7 +59,7 @@ void k_near_list(int x, int y, int k){
     {
         pair<int,int> coord = pq.top().second;
         pq.pop();
-        cout<<coord.first<<"--"<<coord.second<<endl;
+        //cout<<coord.first<<"--"<<coord.second<<endl;
     }
     
 }
